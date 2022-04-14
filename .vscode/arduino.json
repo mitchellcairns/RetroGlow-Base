@@ -1,0 +1,6 @@
+{
+    "sketch": "RetroGlow_GBC.ino",
+    "configuration": "cpu=attiny85,clock=internal8",
+    "board": "attiny:avr:ATtinyX5",
+    "port": "COM4"
+}
